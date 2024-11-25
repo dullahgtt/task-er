@@ -1,2 +1,2 @@
-# task-er
+# TaSkEr
 Making task management manageable.
